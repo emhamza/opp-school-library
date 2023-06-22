@@ -98,6 +98,7 @@ Run the execution file
 ```
 
 3. The output will be printed on the console.
+
 ### Run tests
 
 At this stage, there are no tests available for this project.
