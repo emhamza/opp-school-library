@@ -89,9 +89,15 @@ Modify and run the ruby files to utilize the MyList class and test the methods.
 ruby person.rb
 ruby student.rb
 ruby teacher.rb
+```
+
+Run the execution file
 
 ```
-4. The output will be printed on the console.
+./main.rb
+```
+
+3. The output will be printed on the console.
 ### Run tests
 
 At this stage, there are no tests available for this project.
