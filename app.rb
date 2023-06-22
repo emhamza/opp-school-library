@@ -127,6 +127,7 @@ class App
   end
 
   def options
+    puts 'OOP School Library!'
     puts 'Please enter the number for the task you want to perform:'
     puts '1 - List all books.'
     puts '2 - List all people.'
