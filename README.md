@@ -59,7 +59,6 @@ The key features of this project include:
 
 To get started with the project, follow the instructions below.
 
-
 ### Setup
 
 To set up the project locally, you need to have Ruby installed on your system.
@@ -75,12 +74,14 @@ To set up the project locally, you need to have Ruby installed on your system.
 ```sh
   clone git@github.com:emhamza/opp-school-library.git
 ```
+
 2. Change into the project directory:
 
 ```
 cd opp-school-library
 bundle install
 ```
+
 ### Usage
 
 Modify and run the ruby files to utilize the MyList class and test the methods.
@@ -102,6 +103,7 @@ Run the execution file
 ### Run tests
 
 At this stage, there are no tests available for this project.
+
 ### Deployment
 
 There is no specific deployment process for this project as it is a code implementation. However, you can integrate project into your own Ruby applications.
@@ -118,6 +120,12 @@ This project was developed by:
 - Twitter: [@uhamzaz](https://twitter.com/uhamzaz)
 - LinkedIn: [Umair Hamza](https://www.linkedin.com/in/umair-hamza-a8262b261/)
 
+👤 **Fatihah Oduwole**
+
+- GitHub: [@emhamza](https://github.com/jeddaa)
+- Twitter: [@uhamzaz](https://twitter.com/_jeddaah)
+- LinkedIn: [Umair Hamza](https://www.linkedin.com/in/fatihahoduwole/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -126,6 +134,7 @@ Possible future features for this project include:
 
 - Add more methods to the `OOP library`
 - Enhance error handling and edge case scenarios
+- allow data storage for persons, books and rentals
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
