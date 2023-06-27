@@ -122,9 +122,9 @@ This project was developed by:
 
 👤 **Fatihah Oduwole**
 
-- GitHub: [@emhamza](https://github.com/jeddaa)
-- Twitter: [@uhamzaz](https://twitter.com/_jeddaah)
-- LinkedIn: [Umair Hamza](https://www.linkedin.com/in/fatihahoduwole/)
+- GitHub: [@jeddaa](https://github.com/jeddaa)
+- Twitter: [@_jeddaah](https://twitter.com/_jeddaah)
+- LinkedIn: [Fatihah oduwole](https://www.linkedin.com/in/fatihahoduwole/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
