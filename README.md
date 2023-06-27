@@ -123,7 +123,7 @@ This project was developed by:
 👤 **Fatihah Oduwole**
 
 - GitHub: [@jeddaa](https://github.com/jeddaa)
-- Twitter: [@_jeddaah](https://twitter.com/_jeddaah)
+- Twitter: [@\_jeddaah](https://twitter.com/_jeddaah)
 - LinkedIn: [Fatihah oduwole](https://www.linkedin.com/in/fatihahoduwole/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,7 +134,6 @@ Possible future features for this project include:
 
 - Add more methods to the `OOP library`
 - Enhance error handling and edge case scenarios
-- allow data storage for persons, books and rentals
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
