@@ -102,7 +102,14 @@ Run the execution file
 
 ### Run tests
 
-At this stage, there are no tests available for this project.
+To run the test change the file name for respective file
+
+```
+ ruby -S rspec spec/book_spec.rb
+ ruby -S rspec spec/classroom_spec.rb
+ ruby -S rspec spec/decorator_spec.rb
+ ruby -S rspec spec/person_spec.rb
+```
 
 ### Deployment
 

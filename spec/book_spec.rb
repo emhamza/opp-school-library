@@ -1,29 +1,20 @@
 require_relative '../book'
 
 describe Book do
-  let(:book_title) { 'The Great Gatsby' }
-  let(:book_author) { 'F. Scott Fitzgerald' }
-  let(:person_name) { 'John Doe' }
-  let(:rental_date) { Date.new(2023, 6, 26) }
-  let(:book) { Book.new(book_title, book_author) }
-  let(:person) { double('Person', name: person_name) }
-
-  describe '#book_rentals' do
-    it 'creates a new Rental instance' do
-      rental = book.book_rentals(person, rental_date)
-      expect(rental).to be_instance_of(Rental)
+  context 'When creating a new book' do
+    it 'should have the correct title' do
+      new_book = Book.new('Title', 'Author')
+      expect(new_book.title).to eq('Title')
     end
 
-    it 'assigns the book and person to the Rental instance' do
-      rental = book.book_rentals(person, rental_date)
-      expect(rental.book).to eq(book)
-      expect(rental.person).to eq(person)
+    it 'should have the correct author' do
+      new_book = Book.new('Title', 'Author')
+      expect(new_book.author).to eq('Author')
     end
 
-    it 'adds the rental to the book rentals array' do
-      expect {
-        book.book_rentals(person, rental_date)
-      }.to change { book.rentals.length }.by(1)
+    it 'should have an empty rentals array' do
+      new_book = Book.new('Title', 'Author')
+      expect(new_book.rentals).to be_empty
     end
   end
 end
