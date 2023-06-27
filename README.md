@@ -102,7 +102,14 @@ Run the execution file
 
 ### Run tests
 
-At this stage, there are no tests available for this project.
+To run the test change the file name for respective file
+
+```
+ ruby -S rspec spec/book_spec.rb
+ ruby -S rspec spec/classroom_spec.rb
+ ruby -S rspec spec/decorator_spec.rb
+ ruby -S rspec spec/person_spec.rb
+```
 
 ### Deployment
 
@@ -122,9 +129,9 @@ This project was developed by:
 
 👤 **Fatihah Oduwole**
 
-- GitHub: [@emhamza](https://github.com/jeddaa)
-- Twitter: [@uhamzaz](https://twitter.com/_jeddaah)
-- LinkedIn: [Umair Hamza](https://www.linkedin.com/in/fatihahoduwole/)
+- GitHub: [@jeddaa](https://github.com/jeddaa)
+- Twitter: [@\_jeddaah](https://twitter.com/_jeddaah)
+- LinkedIn: [Fatihah oduwole](https://www.linkedin.com/in/fatihahoduwole/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +141,6 @@ Possible future features for this project include:
 
 - Add more methods to the `OOP library`
 - Enhance error handling and edge case scenarios
-- allow data storage for persons, books and rentals
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
