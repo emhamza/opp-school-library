@@ -33,7 +33,7 @@ The "OOP school library" app is a tool designed for librarians at OOP University
 
 ### Tech Stack <a name="tech-stack"></a>
 
-The project is built with the following technologies:
+The project is built with the following technologies
 
 - Ruby
 
