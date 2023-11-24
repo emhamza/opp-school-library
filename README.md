@@ -35,7 +35,7 @@ The "OOP school library" app is a tool designed for librarians at OOP University
 
 The project is built with the following technologies
 
-- Ruby
+- Ruby __
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
